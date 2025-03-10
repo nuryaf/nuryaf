@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, me chamo Nurya
 
-Sou desenvolvedora frontend **pleno**, focada em criar **interfaces modernas e intuitivas**. Gosto de transformar ideias em **experiências fluidas para o usuário**, sempre buscando equilíbrio entre **design, usabilidade e performance**.
+Sou desenvolvedora frontend **pleno**. Gosto de transformar ideias em experiências fluidas para o usuário, sempre buscando equilíbrio entre **design, usabilidade**.
 <br/>
 Atualmente, curso **Engenharia de Software** para aprofundar meus conhecimentos e expandir minha visão sobre o desenvolvimento de produtos digitais. 
 
